@@ -148,7 +148,7 @@ lalu sekarang jalankan instalasi dan tunggu hingga instalasi selesai
 
 ### Promote Domain
 
-![3_1_Promote Domain](assets/3_1_Promote Domain.PNG)
+![3_1_Promote Domain](assets/3_1_Promote_Domain.PNG)
 
 Jalankan promote server yang dimana akan terdapat tanda bendera berwarna kuning, setelah itu kita mengklik promote this server
 
@@ -164,7 +164,7 @@ setelah itu  memasukan password yang telah di set pada saat instalasi windows se
 
 Setelah itu mulai proses instalasi, yang dimana disini kita akan diberitahukan kita telah mengisi apa saja
 
-![3_5_promote_server_berhasil](assets\3_5_promote_server_berhasil.PNG)
+![3_5_promote_server_berhasil](assets/3_5_promote_server_berhasil.PNG)
 
 untuk melihat apakah promote server telah berhasil atau tidak kita dapat melihat di, tools -> active directory Users and Computers
 
