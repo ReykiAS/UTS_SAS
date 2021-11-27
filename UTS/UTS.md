@@ -106,7 +106,7 @@ ip berhasil berubah, untuk mengcek ip bisa melalui, win + r lalu ketik cmd dan k
 
 menambahkan roles dan features dengan mengklik add roles and features yang dimana disini kita akan menginstall win Active Directory Domain Services, DNS server dan Net Framework 3.5
 
-![2_5_Memilih_roles type](assets/2_5_Memilih_roles_type)
+![2_5_Memilih_roles  type](assets/2_5_Memilih_roles_type)
 
 untuk type yang digunakan ialah role based or feature based installation
 
