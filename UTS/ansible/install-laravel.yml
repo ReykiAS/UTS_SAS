@@ -1,0 +1,7 @@
+-hosts: laravel
+ vars:
+   username: 'admin'
+   password: '123456'
+   domain: 'lxc_landing.dev'
+  roles:
+   - lv

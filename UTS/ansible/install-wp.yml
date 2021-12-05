@@ -1,0 +1,9 @@
+---
+- hosts: ubuntu_php7
+  vars:
+    username: 'admin'
+    password: '123456'
+    domain: 'lxc_php7.dev'
+  roles:
+   - wp
+   
